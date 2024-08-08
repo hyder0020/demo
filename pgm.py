@@ -1,2 +1,2 @@
 print("program 1")
-input("Enter your name")
+input("Enter your name : ")
