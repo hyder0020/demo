@@ -1,2 +1,3 @@
-print("program 1")
+print("Admission form")
 input("Enter your name : ")
+input("Age: ")
